@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #  Quotes
 ##  25th March,2019
 ##  DESCRIPTION
